@@ -67,7 +67,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"K\u00fcche"
+                 "value":"leanovate-kueche"
                 }],
          "type":"tilelayer",
          "visible":true,

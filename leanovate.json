@@ -49,7 +49,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/leanovate.atlassian.net\/wiki\/spaces\/AL\/pages\/1534656562\/Remote+Weihnachtsfeier+Spielesammlung"
+                 "value":".\/spiele.html"
                 }],
          "type":"tilelayer",
          "visible":true,

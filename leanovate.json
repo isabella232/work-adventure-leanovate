@@ -50,6 +50,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/leanovate.github.io\/work-adventure-leanovate\/spiele.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
